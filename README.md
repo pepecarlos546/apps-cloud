@@ -34,9 +34,11 @@ Una suite de herramientas ultra-ligeras y portátiles diseñadas para ejecutarse
 
 | \*\*🌐 Web Browser\*\* | Navegador ligero basado en DuckDuckGo Lite para evitar bloqueos de motor. | Python + PS |
 
-| \*\*📝 Cloud Notepad\*\* | Wrapper de escritorio para \[Notepad Cloud](https://pepecarlos546.github.io/notepad-cloud/) con inyección de modo oscuro. | PWA Wrapper |
+| \*\*📝 Cloud Notepad\*\* | Wrapper de escritorio para https://pepecarlos546.github.io/notepad-cloud/ con inyección de modo oscuro. | PWA Wrapper |
 
 | \*\*💻 Admin Terminal\*\* | Acceso directo a CMD con permisos de administrador en la raíz del sistema. | Python |
+
+| \*\*batchfile\*\* | algunos .bat de optimizacion de la computadora | batchfile |
 
 
 
