@@ -1,0 +1,1 @@
+adb shell /data/app/~~cfeRulRAV5uYcyegtJaHtw==/frb.axeron.manager-WTJ7vgLTXAHS8iUBrvsLFQ==/lib/arm64/libaxeron.so
