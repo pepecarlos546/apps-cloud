@@ -24,3 +24,4 @@ for /d %%p in ("C:\Windows\Prefetch\*.*") do rmdir /s /q "%%p"
 echo ===========================================
 echo   PROCESO FINALIZADO CON EXITO
 echo ===========================================
+exit
